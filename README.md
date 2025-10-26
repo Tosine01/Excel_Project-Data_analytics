@@ -23,7 +23,29 @@ Data Science Job Salary - Bar Chart
 ![Job_Median_Salary](https://github.com/user-attachments/assets/55de709c-b298-4090-83ad-d428762aa209)  
 **Excel Features**: Used bar charts with formatted salary values and an optimized layout to enhance clarity.  
 **Design Choice**: Horizontal bar chart for visual comparison of median salaries.  
-**Data Organixationa**: Sorted job titles by descending salary for improved readability.  
-**Insights Gained**: The visualization highlights clear salary trends — senior and engineering roles generally offer higher pay compared to analyst positions.
+**Data Organizationa**: Sorted job titles by descending salary for improved readability.  
+**Insights Gained**: The visualization highlights clear salary trends — senior and engineering roles generally offer higher pay compared to analyst positions.  
+
+**Country Median Salaries - Map Chart**  
+![Map](https://github.com/user-attachments/assets/fb6c23fa-8474-4ddf-8c46-7db14e18b3fe)  
+**Excel Features**: Leveraged Excel’s map chart to visualize median salaries across countries.  
+**Design Choice**: Applied color-coding to distinguish salary variations between different regions.  
+**Data Representation**: Displayed median salary values for each country with available data.  
+**Visual Enhancement**: Improved readability and supported quick understanding of global salary distribution patterns.  
+**Insights Gained**: Offered an at-a-glance view of worldwide salary disparities, highlighting regions with notably higher or lower pay levels.  
+
+## Formulas and Functions  
+
+**Median Salary By Job Title**  
+
+```=MEDIAN(
+IF(jobs[job_title_short]=A2)*
+  (jobs[job_country]=country)*
+  (ISNUMBER(SEARCH(type,jobs[job_schedule_type])))*
+  (jobs[salary_year_avg]<>0).
+  (jobs[salary_year_avg])
+)
+)```
+
 
 
