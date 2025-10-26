@@ -47,5 +47,10 @@ IF(jobs[job_title_short]=A2)*
 )
 )```
 
+**Multi-Criteria Filtering** : Applies filters across job title, country, and schedule type, while excluding blank salary entries.
+**Array Formula**: Employs the MEDIAN() function combined with nested IF() logic to calculate results dynamically within an array.
+**Tailored Insights**: Delivers precise salary metrics segmented by job title, location, and work schedule type.
+**Formula Purpose**: Automatically populates the summary table, returning the median salary for each combination of job title, country, and schedule type.
+
 
 
