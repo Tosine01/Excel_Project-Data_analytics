@@ -50,7 +50,15 @@ IF(jobs[job_title_short]=A2)*
 **Multi-Criteria Filtering** : Applies filters across job title, country, and schedule type, while excluding blank salary entries.  
 **Array Formula**: Employs the MEDIAN() function combined with nested IF() logic to calculate results dynamically within an array.  
 **Tailored Insights**: Delivers precise salary metrics segmented by job title, location, and work schedule type.  
-**Formula Purpose**: Automatically populates the summary table, returning the median salary for each combination of job title, country, and schedule type.  
+**Formula Purpose**: Automatically populates the summary table, returning the median salary for each combination of job title, country, and schedule type. 
+
+**Data Validation**  
+![Data_Validation](https://github.com/user-attachments/assets/6f217bd4-c07b-4761-b632-dc6e14786728)  
+
+## Conclusion  
+
+This project demonstrates how Excel can be leveraged as a powerful data analysis and visualization tool for exploring real-world job market insights. By combining advanced formulas, dynamic filtering, and interactive visuals, the dashboard provides a clear understanding of salary patterns across roles, regions, and work types—empowering job seekers and analysts to make more informed, data-driven decisions.
+
 
 
 
