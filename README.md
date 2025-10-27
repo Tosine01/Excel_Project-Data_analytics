@@ -24,4 +24,28 @@ The following Excel skills were utilized for this analysis:
 
   ## Data Jobs Dataset
   This project uses a real-world 2023 dataset on data science jobs, sourced from Luke Barousse’s Excel course. It forms the basis for learning and applying Excel data analysis skills. The dataset includes details on:
+  
+- Job titles
+- Salaries
+- location
+- Skills
+
+### Extract
+
+- I Started by using Power Query to extract the original data(data_salary_all_xlsx)and create two queries  
+     -First the one with all the data jobs information  
+     -Second listing with all the skills with each job ID
+
+### Transform  
+  Then i transformed each query by changing column types, removing unneccessary columns, cleaning text to eliminate specific words and trimming excess whitespace  
+
+  data_jobs_all  
+  ![Applied_steps](https://github.com/user-attachments/assets/01a51682-b6f5-4038-bd05-4a8d534041c7)  
+
+  data_jobs_Skills  
+  ![Applied_st](https://github.com/user-attachments/assets/f8e1ab23-a2e3-40e7-9ad3-789fdb4441cf)  
+  
+
+
+  
 
