@@ -45,7 +45,13 @@ The following Excel skills were utilized for this analysis:
   data_jobs_Skills  
   ![Applied_st](https://github.com/user-attachments/assets/f8e1ab23-a2e3-40e7-9ad3-789fdb4441cf)  
   
+Then, i loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis  
 
+data_jobs_all  
+![data_jobs_all](https://github.com/user-attachments/assets/906b08e6-aa4c-4be1-8523-c047aae10e10)
+
+data_jobs_skills
+![Data_job_skills](https://github.com/user-attachments/assets/61005b17-ac20-484f-9c45-f7959285ecab)
 
   
 
