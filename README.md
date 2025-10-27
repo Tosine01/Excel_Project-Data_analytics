@@ -11,3 +11,8 @@ Key Questions Explored:
 3. What are the top skills for data proffessionals?  
 4. What's the pay for the top 10 skills?  
 
+## Excel Skills Used  
+
+The following Excel skills were utilized for this analysis:  
+
+
