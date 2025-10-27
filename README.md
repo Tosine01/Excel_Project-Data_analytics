@@ -21,3 +21,7 @@ The following Excel skills were utilized for this analysis:
 - DAX(Data Analysis Expressions)  
 - Power Query  
 - Power Pivot
+
+  ## Data Jobs Dataset
+  This project uses a real-world 2023 dataset on data science jobs, sourced from Luke Barousse’s Excel course. It forms the basis for learning and applying Excel data analysis skills. The dataset includes details on:
+
