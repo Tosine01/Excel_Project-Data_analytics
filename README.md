@@ -85,6 +85,18 @@ data_jobs_skills
 - Notable salary gaps exist between US and non-US tech roles, especially in high-tech positions. This disparity may reflect the concentration of major tech industries and higher compensation standards within the US market.
   ![Region_salary](https://github.com/user-attachments/assets/86c4553f-d04d-40e7-88c0-c1342e599f8c)
 
+  
+## 3. What are the top skills for data proffessionals?   
+### Skill: Power Pivot  
+**Data Modeling with Power Pivot**  
+
+-Built a unified data model by integrating two cleaned tables: data_jobs_all and data_jobs_skills.  
+-Leveraged Power Query for preprocessing, which enabled seamless relationship creation in Power Pivot.  
+-Established a relationship between the tables using the job_id column to support cross-table analysis.
+![Power_Pivot_Tables](https://github.com/user-attachments/assets/72a64c1b-6a66-48cb-872e-c7cd7b5724cb)
+
+
+
 
 
 
