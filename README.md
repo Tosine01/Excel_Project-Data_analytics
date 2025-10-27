@@ -1,3 +1,13 @@
 # Project 2 Analysis  
 ## Introduction  
-As someone who has searched for data-related roles, I often noticed how little accessible data exists about the most in-demand skills and fair salary ranges in the data science field. This project was created to explore what skills top employers value most and how they relate to higher pay.
+While exploring opportunities in data analytics, I realized there wasn’t much clear data showing which skills lead to better pay or which regions offer the most competitive salaries. This project dives into those questions, using real job data to uncover trends that can help others make informed career decisions.
+
+## Question to Analyze  
+
+Key Questions Explored:  
+
+1. Does possessing more skills correlate with higher pay?  
+2. How do data job salaries vary across regions?  
+3. What are the top skills for data proffessionals?  
+4. What's the pay for the top 10 skills?  
+
