@@ -16,3 +16,8 @@ Key Questions Explored:
 The following Excel skills were utilized for this analysis:  
 
 
+- Pivot Tables  
+- Pivot Charts  
+- DAX(Data Analysis Expressions)  
+- Power Query  
+- Power Pivot
