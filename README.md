@@ -93,7 +93,42 @@ data_jobs_skills
 -Built a unified data model by integrating two cleaned tables: data_jobs_all and data_jobs_skills.  
 -Leveraged Power Query for preprocessing, which enabled seamless relationship creation in Power Pivot.  
 -Established a relationship between the tables using the job_id column to support cross-table analysis.
-![Power_Pivot_Tables](https://github.com/user-attachments/assets/72a64c1b-6a66-48cb-872e-c7cd7b5724cb)
+![Power_Pivot_Tables](https://github.com/user-attachments/assets/72a64c1b-6a66-48cb-872e-c7cd7b5724cb)  
+
+**Power Pivot Menu**  
+Power Pivot Menu was used to refine my data model and makes it easy to create measures.  
+![PowerPivot](https://github.com/user-attachments/assets/5eccfe4b-90bb-438f-81b0-04941bfc33df)  
+
+**Bar Chart** 
+Top Ten Skills  
+
+![Skills](https://github.com/user-attachments/assets/21cddfd1-4134-46ae-b94b-ea8bffe63a9f)
+
+
+## 4. What's the pay for the top 10 skills?   
+
+### Skill: Advanced Chart(Pivot Chart)  
+Created a PivotChart to compare median salary and skill likelihood (%) using dual axes  
+- **Primary Axis**: Median Salary displayed as a Clustered Column.
+- **Secondary Axis**: Skill Likelihood shown as a Line with Markers (customized to diamond shapes).
+  Enhanced chart clarity by adding axis titles and removing unnecessary lines.
+
+  **Insights**
+  High-paying roles are strongly associated with technical skills like Python, Oracle, and SQL, underscoring their market value.
+  General productivity tools such as PowerPoint and Word correlate with lower salaries and skill relevance, suggesting limited specialization.
+  
+  ![Top_ten](https://github.com/user-attachments/assets/53b93af2-9dd8-4ba8-ada1-0aa0324d1949)
+
+  ## Conclusion
+  This Excel-driven analysis used real-world job posting data to explore the relationship between job titles, locations, salaries, and required skills. By leveraging tools like Power Query, PivotTables, DAX, and custom charts, the project uncovered clear patterns—most notably, that roles demanding multiple technical skills (especially Python, SQL, and cloud technologies) tend to offer significantly higher salaries.
+Overall, this project serves as a practical reference for aspiring data professionals, highlighting the skill sets that align with top-paying opportunities in today’s job market.
+
+
+
+
+
+
+
 
 
 
